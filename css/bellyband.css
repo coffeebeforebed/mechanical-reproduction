@@ -1,0 +1,12 @@
+@font-face {
+	font-family: OSP-limousine;
+	src: url('fonts/limousine.ttf');
+}
+.hide {
+	display: none;
+}
+#bellyband {
+	width: 100%;
+	background-color: #d0d0d0;
+	position: fixed;
+}
